@@ -1,24 +1,32 @@
 <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header&text=1Sultan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Taif%2C%20Saudi%20Arabia&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+  </div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+9bzero;Full-Stack+Developer;Building+things+that+matter" alt="Typing SVG" />
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Node.js;Building+clean%2C+purposeful+software" alt="Typing SVG"/>
+  </div>
 
   <br/>
 
-  [![GitHub followers](https://img.shields.io/github/followers/9bzero?style=for-the-badge&color=38bdf8&labelColor=0f172a&logo=github)](https://github.com/9bzero)
-  [![Profile views](https://komarev.com/ghpvc/?username=9bzero&style=for-the-badge&color=38bdf8&labelColor=0f172a)](https://github.com/9bzero)
+  <div align="center">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-9bzero-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/9bzero)
+  [![Location](https://img.shields.io/badge/Taif%2C_Saudi_Arabia-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8)](https://github.com/9bzero)
+  [![Profile Views](https://komarev.com/ghpvc/?username=9bzero&style=for-the-badge&color=0ea5e9&labelColor=0f172a&label=PROFILE+VIEWS)](https://github.com/9bzero)
 
   </div>
 
   ---
 
-  ## About Me
+  ## About
 
-  > Full-stack developer focused on building clean, performant web applications.  
-  > I care about developer experience, readable code, and shipping products that work.
+  I'm a full-stack developer who builds web applications end-to-end — from database schema to polished UI.
 
-  - Building full-stack apps with **React**, **TypeScript**, **Node.js**, and **PostgreSQL**
-  - Interested in algorithms, data structures, and developer tooling
-  - Open to collaboration on interesting open-source projects
+  I focus on:
+  - Writing **clean, typed code** in TypeScript that's easy to maintain
+  - Building **RESTful APIs** with proper validation and error handling
+  - Creating **interactive UIs** with React that feel fast and intentional
+  - Learning through building — every repo here is something I designed and shipped
 
   ---
 
@@ -26,50 +34,78 @@
 
   <div align="center">
 
-  ### Languages & Frameworks
-  [![Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,express,html,css&theme=dark&perline=7)](https://skillicons.dev)
+  **Frontend**
 
-  ### Databases & Tools
-  [![Skills](https://skillicons.dev/icons?i=postgres,git,github,vite,figma,linux,vscode&theme=dark&perline=7)](https://skillicons.dev)
+  [![Frontend](https://skillicons.dev/icons?i=react,ts,tailwind,vite,html,css&theme=dark&perline=6)](https://skillicons.dev)
+
+  **Backend & Database**
+
+  [![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&theme=dark&perline=6)](https://skillicons.dev)
 
   </div>
 
   ---
 
-  ## Featured Projects
+  ## Projects
 
-  | Project | Description | Stack | Live |
-  |---------|-------------|-------|------|
-  | [**Task Manager**](https://github.com/9bzero/task-manager) | Full-stack task management with REST API and dashboard | React · Express · PostgreSQL · Drizzle | — |
-  | [**AlgoVis**](https://github.com/9bzero/algo-vis) | Interactive visualizer for pathfinding & sorting algorithms | React · TypeScript · Canvas | — |
-  | [**Kanban Board**](https://github.com/9bzero/kanban-board) | Drag-and-drop project management board | React · TypeScript · localStorage | — |
-  | [**Expense Tracker**](https://github.com/9bzero/expense-tracker) | Finance tracker with interactive Recharts dashboards | React · TypeScript · Recharts | — |
-  | [**Markdown Editor**](https://github.com/9bzero/markdown-editor) | Split-pane live markdown editor with export | React · TypeScript · marked | — |
-  | [**Quiz App**](https://github.com/9bzero/quiz-app) | Multi-category quiz with countdown timer & scoring | React · TypeScript | — |
-  | [**Weather Dashboard**](https://github.com/9bzero/weather-dashboard) | Real-time weather app — no API key required | React · TypeScript · Open-Meteo | — |
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/9bzero/task-manager"><b>Task Manager</b></a></td>
+      <td>Full-stack task management with REST API, dashboard & filtering</td>
+      <td><code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Drizzle</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/9bzero/algo-vis"><b>AlgoVis</b></a></td>
+      <td>Interactive visualizer for pathfinding & sorting algorithms</td>
+      <td><code>React</code> <code>TypeScript</code> <code>Canvas API</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/9bzero/kanban-board"><b>Kanban Board</b></a></td>
+      <td>Drag-and-drop project board — zero DnD libraries used</td>
+      <td><code>React</code> <code>TypeScript</code> <code>Tailwind</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/9bzero/expense-tracker"><b>Expense Tracker</b></a></td>
+      <td>Finance tracker with live pie & bar charts</td>
+      <td><code>React</code> <code>Recharts</code> <code>TypeScript</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/9bzero/markdown-editor"><b>Markdown Editor</b></a></td>
+      <td>Split-pane live markdown editor with export</td>
+      <td><code>React</code> <code>marked</code> <code>TypeScript</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/9bzero/quiz-app"><b>Quiz App</b></a></td>
+      <td>Multi-category quiz with countdown timer & scoring</td>
+      <td><code>React</code> <code>TypeScript</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/9bzero/weather-dashboard"><b>Weather Dashboard</b></a></td>
+      <td>Real-time global weather — no API key required</td>
+      <td><code>React</code> <code>Open-Meteo API</code> <code>TypeScript</code></td>
+    </tr>
+  </table>
 
   ---
 
   ## GitHub Stats
 
   <div align="center">
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=9bzero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=38bdf8" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9bzero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
-
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=9bzero&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=38bdf8&count_private=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9bzero&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
   </div>
 
   <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=9bzero&theme=tokyonight&hide_border=true&background=0f172a&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&dates=94a3b8&sideLabels=94a3b8" />
-
+    <img src="https://streak-stats.demolab.com?user=9bzero&theme=transparent&hide_border=true&stroke=1e293b&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&background=0f172a" />
   </div>
 
   ---
 
   <div align="center">
-
-  *"First, solve the problem. Then, write the code."*
-
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" width="100%"/>
   </div>
-  
