@@ -1,118 +1,158 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=130&section=header&text=1Sultan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Taif%2C%20Saudi%20Arabia&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
-  </div>
 
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Node.js;27+Projects+%E2%80%94+and+counting;Building+clean%2C+purposeful+software" alt="Typing SVG"/>
-  </div>
+  # Hi, I'm 1Sultan 👋
 
-  <br/>
+  ### Full-Stack Developer · Taif, Saudi Arabia 🇸🇦
 
-  <div align="center">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-9bzero-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/9bzero)
-  [![Location](https://img.shields.io/badge/Taif%2C_Saudi_Arabia-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8)](https://github.com/9bzero)
-  [![Repos](https://img.shields.io/badge/27_Public_Repos-0f172a?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/9bzero?tab=repositories)
-  [![Profile Views](https://komarev.com/ghpvc/?username=9bzero&style=for-the-badge&color=0ea5e9&labelColor=0f172a&label=PROFILE+VIEWS)](https://github.com/9bzero)
+  [![GitHub](https://img.shields.io/badge/GitHub-9bzero-181717?style=flat-square&logo=github)](https://github.com/9bzero)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=9bzero.9bzero)
 
   </div>
 
   ---
 
-  ## About
+  ## About Me
 
-  I'm a full-stack developer who builds web applications end-to-end — from database schema to polished UI.
+  I'm a passionate developer who builds things with **React**, **TypeScript**, and modern web technologies. I enjoy turning complex ideas into clean, interactive applications — from algorithm visualizers and games to developer tools and design generators.
 
-  - 🔨 Building with **React**, **TypeScript**, **Node.js**, and **PostgreSQL**
-  - 📐 Focused on clean architecture, typed code, and great UX
-  - 🌱 Learning through building — every repo here is something I designed and shipped
-  - 📍 Based in **Taif, Saudi Arabia**
+  ```typescript
+  const sultan = {
+    location: "Taif, Saudi Arabia 🇸🇦",
+    stack: ["React", "TypeScript", "Vite", "Node.js", "PostgreSQL"],
+    interests: ["Algorithms", "Visualizations", "Games", "Developer Tools"],
+    currently: "Building a portfolio of 52+ React + TypeScript projects",
+  };
+  ```
 
   ---
 
   ## Tech Stack
 
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+  ---
+
+  ## 🎮 Games (5 projects)
+
+  | Project | Description | Tech |
+  |---------|-------------|------|
+  | [snake-game](https://github.com/9bzero/snake-game) | Classic Snake on a 20×20 grid — keyboard + touch controls | React · TS · Vite |
+  | [2048-game](https://github.com/9bzero/2048-game) | Sliding tile puzzle — merge to reach 2048 | React · TS · Vite |
+  | [memory-game](https://github.com/9bzero/memory-game) | Emoji card matching with 3 difficulty levels + timer | React · TS · Vite |
+  | [wordle-clone](https://github.com/9bzero/wordle-clone) | 5-letter word guessing game with color-coded feedback | React · TS · Vite |
+  | [tic-tac-toe-ai](https://github.com/9bzero/tic-tac-toe-ai) | Unbeatable AI using the minimax algorithm | React · TS · Vite |
+
+  ---
+
+  ## 🔬 Algorithm Visualizations (7 projects)
+
+  | Project | Description | Tech |
+  |---------|-------------|------|
+  | [algo-vis](https://github.com/9bzero/algo-vis) | Sorting algorithms + pathfinding visualizer | React · TS · Vite |
+  | [sorting-race](https://github.com/9bzero/sorting-race) | 6 algorithms racing side-by-side in real time | React · TS · Vite |
+  | [fractal-explorer](https://github.com/9bzero/fractal-explorer) | Interactive Mandelbrot & Julia set on Canvas | React · TS · Vite |
+  | [physics-simulation](https://github.com/9bzero/physics-simulation) | 2D physics — gravity, bounce, real-time controls | React · TS · Vite |
+  | [binary-tree-visualizer](https://github.com/9bzero/binary-tree-visualizer) | Interactive BST with insert, delete, search (SVG) | React · TS · Vite |
+  | [prime-sieve](https://github.com/9bzero/prime-sieve) | Animated Sieve of Eratosthenes up to 400 | React · TS · Vite |
+  | [quiz-app](https://github.com/9bzero/quiz-app) | Timed quiz with scoring and review mode | React · TS · Vite |
+
+  ---
+
+  ## 🛠 Developer Tools (9 projects)
+
+  | Project | Description | Tech |
+  |---------|-------------|------|
+  | [api-tester](https://github.com/9bzero/api-tester) | Postman-like HTTP client — GET/POST/PUT/DELETE | React · TS · Vite |
+  | [jwt-decoder](https://github.com/9bzero/jwt-decoder) | Decode JWT header, payload, expiry check | React · TS · Vite |
+  | [base64-tool](https://github.com/9bzero/base64-tool) | Base64 / URL-safe encoder-decoder + file input | React · TS · Vite |
+  | [diff-checker](https://github.com/9bzero/diff-checker) | Side-by-side text diff with line highlighting | React · TS · Vite |
+  | [hash-generator](https://github.com/9bzero/hash-generator) | SHA-256/512/1/384 + HMAC via Web Crypto API | React · TS · Vite |
+  | [markdown-editor](https://github.com/9bzero/markdown-editor) | Live Markdown editor with preview split view | React · TS · Vite |
+  | [weather-dashboard](https://github.com/9bzero/weather-dashboard) | Weather dashboard with forecast and charts | React · TS · Vite |
+  | [expense-tracker](https://github.com/9bzero/expense-tracker) | Expense tracker with categories and charts | React · TS · Vite |
+  | [task-manager](https://github.com/9bzero/task-manager) | Full-stack task manager — React + Express + PostgreSQL | React · Express · PG |
+
+  ---
+
+  ## 🎨 Design & CSS Tools (10 projects)
+
+  | Project | Description | Tech |
+  |---------|-------------|------|
+  | [glassmorphism-generator](https://github.com/9bzero/glassmorphism-generator) | Visual glassmorphism CSS builder with live preview | React · TS · Vite |
+  | [box-shadow-generator](https://github.com/9bzero/box-shadow-generator) | Multi-layer box-shadow builder | React · TS · Vite |
+  | [border-radius-generator](https://github.com/9bzero/border-radius-generator) | Per-corner border-radius control | React · TS · Vite |
+  | [animation-generator](https://github.com/9bzero/animation-generator) | CSS keyframe animation builder with 8 presets | React · TS · Vite |
+  | [color-palette-generator](https://github.com/9bzero/color-palette-generator) | Color palettes by harmony rule (analogous, triadic…) | React · TS · Vite |
+  | [kanban-board](https://github.com/9bzero/kanban-board) | Drag-and-drop kanban board with custom columns | React · TS · Vite |
+  | [portfolio-website](https://github.com/9bzero/portfolio-website) | Animated portfolio with project showcase | React · TS · Vite |
+  | [landing-page-builder](https://github.com/9bzero/landing-page-builder) | Visual landing page builder with section editor | React · TS · Vite |
+  | [icon-library](https://github.com/9bzero/icon-library) | Searchable SVG icon library with copy & download | React · TS · Vite |
+  | [gradient-generator](https://github.com/9bzero/gradient-generator) | CSS gradient builder — linear, radial, conic | React · TS · Vite |
+
+  ---
+
+  ## 📅 Productivity Apps (8 projects)
+
+  | Project | Description | Tech |
+  |---------|-------------|------|
+  | [habit-tracker](https://github.com/9bzero/habit-tracker) | Daily habit grid with streaks and completion stats | React · TS · Vite |
+  | [world-clock](https://github.com/9bzero/world-clock) | Live world clock for 10 cities with day/night indicator | React · TS · Vite |
+  | [bmi-calculator](https://github.com/9bzero/bmi-calculator) | BMI gauge with metric/imperial and healthy range | React · TS · Vite |
+  | [loan-calculator](https://github.com/9bzero/loan-calculator) | EMI + amortization schedule calculator | React · TS · Vite |
+  | [age-calculator](https://github.com/9bzero/age-calculator) | Precise age + milestone tracker (days lived) | React · TS · Vite |
+  | [pomodoro-timer](https://github.com/9bzero/pomodoro-timer) | Focus timer with work/break cycles and stats | React · TS · Vite |
+  | [note-taking-app](https://github.com/9bzero/note-taking-app) | Rich notes with tags, search, and local storage | React · TS · Vite |
+  | [budget-planner](https://github.com/9bzero/budget-planner) | Monthly budget planner with category charts | React · TS · Vite |
+
+  ---
+
+  ## 🏗 Fullstack / Architecture Projects (3 projects)
+
+  | Project | Description | Tech |
+  |---------|-------------|------|
+  | [task-manager](https://github.com/9bzero/task-manager) | REST API + React UI — Express, Drizzle ORM, PostgreSQL | React · Express · PG |
+  | [realtime-chat](https://github.com/9bzero/realtime-chat) | Real-time chat with WebSocket rooms | React · WS · Node |
+  | [auth-starter](https://github.com/9bzero/auth-starter) | Auth boilerplate — JWT, refresh tokens, role-based access | Express · JWT · PG |
+
+  ---
+
+  ## 📊 GitHub Stats
+
   <div align="center">
 
-  **Frontend**
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9bzero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-  [![Frontend](https://skillicons.dev/icons?i=react,ts,tailwind,vite,html,css&theme=dark&perline=6)](https://skillicons.dev)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9bzero&layout=compact&theme=tokyonight&hide_border=true)
 
-  **Backend & Tools**
-
-  [![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&theme=dark&perline=6)](https://skillicons.dev)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=9bzero&theme=tokyonight&hide_border=true)
 
   </div>
 
   ---
 
-  ## Full-Stack Projects
-
-  | Project | Description | Stack |
-  |---------|-------------|-------|
-  | [**task-manager**](https://github.com/9bzero/task-manager) | Full-stack task management with REST API & dashboard | React · Express · PostgreSQL · Drizzle |
-  | [**algo-vis**](https://github.com/9bzero/algo-vis) | Interactive pathfinding & sorting visualizer | React · TypeScript · Canvas API |
-
-  ## Developer Tools
-
-  | Project | Description | Stack |
-  |---------|-------------|-------|
-  | [**code-editor**](https://github.com/9bzero/code-editor) | Browser code editor with themes & syntax highlight | React · TypeScript |
-  | [**json-formatter**](https://github.com/9bzero/json-formatter) | JSON formatter, validator & syntax highlighter | React · TypeScript |
-  | [**regex-tester**](https://github.com/9bzero/regex-tester) | Real-time regex tester with match highlighting | React · TypeScript |
-  | [**css-gradient-generator**](https://github.com/9bzero/css-gradient-generator) | Live CSS gradient builder with code export | React · TypeScript |
-  | [**password-generator**](https://github.com/9bzero/password-generator) | Cryptographically secure password generator | React · Web Crypto API |
-  | [**qr-code-generator**](https://github.com/9bzero/qr-code-generator) | QR code generator with custom colors & download | React · qrcode |
-  | [**image-color-extractor**](https://github.com/9bzero/image-color-extractor) | Extract color palettes from images | React · Canvas API |
-  | [**unit-converter**](https://github.com/9bzero/unit-converter) | 6 categories, 50+ units — live conversion | React · TypeScript |
-  | [**github-profile-viewer**](https://github.com/9bzero/github-profile-viewer) | Explore any GitHub user's repos & language stats | React · GitHub API |
-  | [**url-shortener**](https://github.com/9bzero/url-shortener) | URL shortener with click analytics dashboard | React · TypeScript |
-
-  ## Productivity & Utilities
-
-  | Project | Description | Stack |
-  |---------|-------------|-------|
-  | [**pomodoro-timer**](https://github.com/9bzero/pomodoro-timer) | Pomodoro timer with animated ring & session stats | React · TypeScript |
-  | [**countdown-timer**](https://github.com/9bzero/countdown-timer) | Multi-timer with presets & browser notifications | React · TypeScript |
-  | [**typing-speed-test**](https://github.com/9bzero/typing-speed-test) | WPM test with per-character accuracy feedback | React · TypeScript |
-  | [**flashcard-app**](https://github.com/9bzero/flashcard-app) | Spaced repetition flashcards — TS, React & CS decks | React · TypeScript |
-  | [**note-taking-app**](https://github.com/9bzero/note-taking-app) | Markdown notes with tags, search & localStorage | React · TypeScript |
-  | [**invoice-generator**](https://github.com/9bzero/invoice-generator) | Professional invoices with tax calc & PDF export | React · TypeScript |
-  | [**budget-planner**](https://github.com/9bzero/budget-planner) | Budget tracker with category charts | React · TypeScript |
-
-  ## UI Showcases
-
-  | Project | Description | Stack |
-  |---------|-------------|-------|
-  | [**portfolio-website**](https://github.com/9bzero/portfolio-website) | Personal portfolio with dark theme & project showcase | React · TypeScript |
-  | [**chat-interface**](https://github.com/9bzero/chat-interface) | Chat UI with reactions, typing indicator & quick replies | React · TypeScript |
-  | [**music-visualizer**](https://github.com/9bzero/music-visualizer) | Real-time audio visualizer (bars, wave, circle) | React · Web Audio API |
-
-  ## Apps
-
-  | Project | Description | Stack |
-  |---------|-------------|-------|
-  | [**kanban-board**](https://github.com/9bzero/kanban-board) | Drag-and-drop Kanban — no DnD libraries | React · TypeScript |
-  | [**expense-tracker**](https://github.com/9bzero/expense-tracker) | Finance tracker with live pie & bar charts | React · Recharts |
-  | [**markdown-editor**](https://github.com/9bzero/markdown-editor) | Split-pane live markdown editor with export | React · marked |
-  | [**quiz-app**](https://github.com/9bzero/quiz-app) | Multi-category quiz with countdown & scoring | React · TypeScript |
-  | [**weather-dashboard**](https://github.com/9bzero/weather-dashboard) | Real-time global weather — no API key required | React · Open-Meteo |
-
-  ---
-
-  ## GitHub Stats
+  ## 🚀 Featured Projects
 
   <div align="center">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=9bzero&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=38bdf8&count_private=true&include_all_commits=true" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9bzero&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
-  </div>
 
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=9bzero&theme=transparent&hide_border=true&stroke=1e293b&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&background=0f172a" />
+  [![algo-vis](https://github-readme-stats.vercel.app/api/pin/?username=9bzero&repo=algo-vis&theme=tokyonight&hide_border=true)](https://github.com/9bzero/algo-vis)
+  [![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=9bzero&repo=task-manager&theme=tokyonight&hide_border=true)](https://github.com/9bzero/task-manager)
+  [![fractal-explorer](https://github-readme-stats.vercel.app/api/pin/?username=9bzero&repo=fractal-explorer&theme=tokyonight&hide_border=true)](https://github.com/9bzero/fractal-explorer)
+  [![sorting-race](https://github-readme-stats.vercel.app/api/pin/?username=9bzero&repo=sorting-race&theme=tokyonight&hide_border=true)](https://github.com/9bzero/sorting-race)
+
   </div>
 
   ---
 
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" width="100%"/>
+
+  *Built with ❤️ using React + TypeScript + Vite*
+
   </div>
+  
