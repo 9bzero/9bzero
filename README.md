@@ -7,37 +7,34 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=9bzero&style=flat-square&color=0ea5e9&label=Profile+Views)](https://github.com/9bzero)
-&nbsp;
+ 
 [![Followers](https://img.shields.io/github/followers/9bzero?style=flat-square&color=0ea5e9&labelColor=0f172a&label=Followers)](https://github.com/9bzero?tab=followers)
-&nbsp;
+ 
 [![Repos](https://img.shields.io/badge/Public_Repos-53-6366f1?style=flat-square&labelColor=0f172a)](https://github.com/9bzero?tab=repositories)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/9bzero?style=flat-square&color=f59e0b&labelColor=0f172a&label=Total+Stars&affiliations=OWNER)](https://github.com/9bzero?tab=stars)
+ 
+[![Stars](https://img.shields.io/github/stars/9bzero?style=flat-square&color=f59e0b&labelColor=0f172a&label=Total+Stars&affiliations=OWNER)](https://github.com/9bzero)
 
 </div>
 
-<br/>
-
 ---
 
-## Who am I
+## About me
 
-I ship small, **focused** tools — developer utilities, algorithm visualizers, CSS generators, mini-games, and productivity apps.
-Every project is TypeScript-first, built with **React + Vite**, and kept as minimal as possible.
+I ship small, **focused** tools — developer utilities, algorithm visualizers, CSS generators, mini-games, and productivity apps. Every project is TypeScript-first, built with **React + Vite**, and kept as minimal as possible.
 
 53 repos in. Still going.
 
-> *"Make it work. Make it clean. Ship it."*
+> *“Make it work. Make it clean. Ship it.”*
 
 ---
 
 ## Currently building
 
-| Project | What |
-|---|---|
-| 🔭 **algo-vis** | Adding more pathfinding algorithms and maze generators |
-| 🌱 **task-manager** | Polishing the full-stack PostgreSQL + Drizzle backend |
-| ⚡ **portfolio** | Live portfolio that pulls all repos from the GitHub API |
+| | Project | Status |
+|---|---|---|
+| 🔭 | **algo-vis** | Adding more pathfinding algorithms and maze generators |
+| 🌱 | **task-manager** | Polishing the full-stack PostgreSQL + Drizzle backend |
+| ⚡ | **portfolio** | Live portfolio site pulling all repos from the GitHub API |
 
 ---
 
@@ -57,7 +54,7 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 
 | | Project | Description |
 |---|---|---|
-| 🧠 | [algo-vis](https://github.com/9bzero/algo-vis) | Pathfinding (A\*, Dijkstra, BFS, DFS) + sorting visualizer |
+| 🧠 | [algo-vis](https://github.com/9bzero/algo-vis) | Pathfinding (A*, Dijkstra, BFS, DFS) + sorting visualizer |
 | 🌀 | [fractal-explorer](https://github.com/9bzero/fractal-explorer) | Mandelbrot & Julia set explorer on Canvas |
 | 🏁 | [sorting-race](https://github.com/9bzero/sorting-race) | 6 algorithms racing side-by-side in real time |
 | 🌲 | [binary-tree-visualizer](https://github.com/9bzero/binary-tree-visualizer) | Interactive BST with animated traversals |
@@ -75,11 +72,11 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 ## All Projects
 
 <details>
-<summary><b>Dev Tools (7 repos)</b></summary>
+<summary><b>🛠️ Dev Tools (7 repos)</b></summary>
 
 | Project | Description |
 |---|---|
-| [api-tester](https://github.com/9bzero/api-tester) | Lightweight API client |
+| [api-tester](https://github.com/9bzero/api-tester) | Lightweight in-browser API client |
 | [jwt-decoder](https://github.com/9bzero/jwt-decoder) | Decode JWT tokens — header, payload, expiry |
 | [diff-checker](https://github.com/9bzero/diff-checker) | Side-by-side text diff |
 | [hash-generator](https://github.com/9bzero/hash-generator) | MD5 / SHA-1 / SHA-256 / SHA-512 |
@@ -90,7 +87,7 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 </details>
 
 <details>
-<summary><b>Visualizations & Algorithms (7 repos)</b></summary>
+<summary><b>📊 Visualizations & Algorithms (7 repos)</b></summary>
 
 | Project | Description |
 |---|---|
@@ -105,7 +102,7 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 </details>
 
 <details>
-<summary><b>Design Tools & CSS Generators (7 repos)</b></summary>
+<summary><b>🎨 Design Tools & CSS Generators (7 repos)</b></summary>
 
 | Project | Description |
 |---|---|
@@ -120,7 +117,7 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 </details>
 
 <details>
-<summary><b>Games (5 repos)</b></summary>
+<summary><b>🎮 Games (5 repos)</b></summary>
 
 | Project | Description |
 |---|---|
@@ -133,7 +130,7 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 </details>
 
 <details>
-<summary><b>Productivity & Utilities (12 repos)</b></summary>
+<summary><b>📅 Productivity & Utilities (15 repos)</b></summary>
 
 | Project | Description |
 |---|---|
@@ -149,11 +146,14 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 | [flashcard-app](https://github.com/9bzero/flashcard-app) | Spaced repetition study app |
 | [quiz-app](https://github.com/9bzero/quiz-app) | Timer-based quiz game |
 | [url-shortener](https://github.com/9bzero/url-shortener) | URL shortener with analytics |
+| [password-generator](https://github.com/9bzero/password-generator) | Cryptographically secure passwords |
+| [invoice-generator](https://github.com/9bzero/invoice-generator) | Professional invoice builder |
+| [unit-converter](https://github.com/9bzero/unit-converter) | Universal unit converter |
 
 </details>
 
 <details>
-<summary><b>More (15 repos)</b></summary>
+<summary><b>📁 More Projects (12 repos)</b></summary>
 
 | Project | Description |
 |---|---|
@@ -163,10 +163,7 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 | [portfolio-website](https://github.com/9bzero/portfolio-website) | Personal dev portfolio |
 | [code-editor](https://github.com/9bzero/code-editor) | In-browser code editor |
 | [markdown-editor](https://github.com/9bzero/markdown-editor) | Live Markdown split-pane editor |
-| [invoice-generator](https://github.com/9bzero/invoice-generator) | Professional invoice builder |
-| [password-generator](https://github.com/9bzero/password-generator) | Cryptographically secure passwords |
 | [qr-code-generator](https://github.com/9bzero/qr-code-generator) | QR code for URLs + vCards |
-| [unit-converter](https://github.com/9bzero/unit-converter) | Universal unit converter |
 | [bmi-calculator](https://github.com/9bzero/bmi-calculator) | BMI with gauge + health tips |
 | [loan-calculator](https://github.com/9bzero/loan-calculator) | EMI + amortization schedule |
 | [age-calculator](https://github.com/9bzero/age-calculator) | Exact age down to the minute |
@@ -182,7 +179,7 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=9bzero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=6366f1&text_color=94a3b8&include_all_commits=true&count_private=true&rank_icon=github"/>
-&nbsp;
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9bzero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8&langs_count=6"/>
 
 </div>
@@ -205,6 +202,20 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 
 ---
 
+## Snake Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9bzero/9bzero/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/9bzero/9bzero/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/9bzero/9bzero/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 ## Trophies
 
 <div align="center">
@@ -219,9 +230,11 @@ Every project is TypeScript-first, built with **React + Vite**, and kept as mini
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-9bzero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9bzero)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Open_to_work-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9bzero@users.noreply.github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%409bzero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/9bzero)
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://52d4acea-9189-42c0-a3ca-3cbec9e960a2-00-3o8js69bb7bdm.sisko.replit.dev)
+ 
+[![Open to work](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/9bzero)
 
 *Open to collaborations, code reviews, and interesting side projects.*
 
